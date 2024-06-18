@@ -6,18 +6,14 @@ I am a curious, dedicated, and passionate cybersecurity professional with a prof
 ## Objective
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security/(SOC) Analyst role
-
+The thing that drew me to the cybersecurity space was the versatillity 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Elastic SIEM Implementation                   | <a href=""insert url here">Detection Lab</a>|
-| Structured Walkthrough of a Security Assessment | <a href="https://docs.google.com/document/d/1kcfDKnn-CmNZ-8nLoYJkjjrElaBjj-0L4HNVKHQkwDM/edit?usp=sharing">Security Assessment</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Assessment | <a href="https://docs.google.com/document/d/1kcfDKnn-CmNZ-8nLoYJkjjrElaBjj-0L4HNVKHQkwDM/edit?usp=sharing">Structured Walkthrough of a Pen-test</a>,  <a href="https://docs.google.com/spreadsheets/d/17FLMbzqu3bSwYaNgTxTBgMf7EIxxo-e-JitS5_d5kY4/edit?usp=sharing">CIS Benchmarks Implimentation</a>||
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
