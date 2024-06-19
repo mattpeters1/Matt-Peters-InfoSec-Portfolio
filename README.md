@@ -5,18 +5,21 @@ I am a curious, dedicated, and passionate cybersecurity professional with a prof
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security/(SOC) Analyst role
-The thing that drew me to the cybersecurity space was the versatillity 
+My journey in computer science combined with my first-hand experiences falling victim to cyber crime has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join an Information Security/SOC Analyst role.
+ 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Elastic SIEM Implementation                   | <a href=""insert url here">Detection Lab</a>|
 | Security Assessment | <a href="https://docs.google.com/document/d/1kcfDKnn-CmNZ-8nLoYJkjjrElaBjj-0L4HNVKHQkwDM/edit?usp=sharing">Structured Walkthrough of a Pen-test</a>,  <a href="https://docs.google.com/spreadsheets/d/17FLMbzqu3bSwYaNgTxTBgMf7EIxxo-e-JitS5_d5kY4/edit?usp=sharing">CIS Benchmarks Implimentation</a>||
 
+## Upcoming Projects
+|-----------------------------------------------|----------------------------|
+| Elastic SIEM Implementation                   |
+
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -39,7 +42,6 @@ The thing that drew me to the cybersecurity space was the versatillity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
