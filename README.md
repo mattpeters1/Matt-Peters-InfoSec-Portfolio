@@ -11,12 +11,11 @@ My journey in computer science combined with my first-hand experiences falling v
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Elastic SIEM Implementation                   | <a href=""insert url here">Detection Lab</a>|
+| Elastic SIEM Configuration                   | <a href=""insert url here">Detection Lab</a>|
 | Security Assessment | <a href="https://docs.google.com/document/d/1kcfDKnn-CmNZ-8nLoYJkjjrElaBjj-0L4HNVKHQkwDM/edit?usp=sharing">Structured Walkthrough of a Pen-test</a>,  <a href="https://docs.google.com/spreadsheets/d/17FLMbzqu3bSwYaNgTxTBgMf7EIxxo-e-JitS5_d5kY4/edit?usp=sharing">CIS Benchmarks Implimentation</a>||
 
 ## Upcoming Projects
-|-----------------------------------------------|----------------------------|
-| Elastic SIEM Implementation                   |
+Building a SOC environment with live threat intelligence
 
 ## Tools
 
@@ -31,7 +30,6 @@ My journey in computer science combined with my first-hand experiences falling v
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
