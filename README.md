@@ -11,9 +11,9 @@ My journey in computer science combined with my first-hand experiences falling v
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Elastic SIEM Configuration                   | <a href=""insert url here">Detection Lab</a>|
+| SIEM Configuration  | <a href="https://docs.google.com/document/d/1QAN32e-jjjARZ8vbJ8yRFW0wT_zjCwUWPRO_jVrHyic/edit?usp=sharing">Elastic SIEM</a>|
 | Security Assessment | <a href="https://docs.google.com/document/d/1kcfDKnn-CmNZ-8nLoYJkjjrElaBjj-0L4HNVKHQkwDM/edit?usp=sharing">Structured Walkthrough of a Pen-test</a>,  <a href="https://docs.google.com/spreadsheets/d/17FLMbzqu3bSwYaNgTxTBgMf7EIxxo-e-JitS5_d5kY4/edit?usp=sharing">CIS Benchmarks Implimentation</a>||
-
+                     
 ## Upcoming Projects
 Building a SOC environment with live threat intelligence
 
