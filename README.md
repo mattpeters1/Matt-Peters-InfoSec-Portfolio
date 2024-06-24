@@ -1,21 +1,24 @@
 # Hello, I'm Matt Peters
 <a href="https://www.linkedin.com/in/matthew-peters1999/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a curious, dedicated, and passionate cybersecurity professional with a profound interest in technology and a dedication to solving complex problems.
+I am a curious, dedicated, and passionate cybersecurity professional with a profound interest in technology and a dedication to learning and continuious improvement.
 
 ## Objective
 
-My journey in computer science combined with my first-hand experiences falling victim to cyber crime has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join an Information Security/SOC Analyst role.
+My journey in computer science combined with my first-hand experiences falling victim to cyber crime has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join an Information Security/SOC Analyst role. To bring new insights and ideas to help 
  
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Configuration  | <a href="https://docs.google.com/document/d/1QAN32e-jjjARZ8vbJ8yRFW0wT_zjCwUWPRO_jVrHyic/edit?usp=sharing">Elastic SIEM</a>|
+| SIEM Configuration  | <a href="https://www.edocr.com/v/ykmzpoxl/matthew051299/elastic-siem-config-pdf">Elastic SIEM</a>|
 | Security Assessment | <a href="https://docs.google.com/document/d/1kcfDKnn-CmNZ-8nLoYJkjjrElaBjj-0L4HNVKHQkwDM/edit?usp=sharing">Structured Walkthrough of a Pen-test</a>,  <a href="https://docs.google.com/spreadsheets/d/17FLMbzqu3bSwYaNgTxTBgMf7EIxxo-e-JitS5_d5kY4/edit?usp=sharing">CIS Benchmarks Implimentation</a>||
+| Networking          | <a href="https://docs.google.com/document/d/1QAN32e-jjjARZ8vbJ8yRFW0wT_zjCwUWPRO_jVrHyic/edit?usp=sharing">Integrating a Firewall, SFTP server, SIEM, and attacking and target systems to a LAN</a>|
                      
 ## Upcoming Projects
-Building a SOC environment with live threat intelligence
+I am working towards integrating some of the tools above into a complete SOC environment. It will include live threat intelligence using tools including OPNSense Firewall with IPS/IDS and suricata rules, Wazuh SIEM and TheHive, and target systems and an email server.
+
+Creating SOAR automation playbooks
 
 ## Tools
 
