@@ -32,24 +32,18 @@ Creating SOAR automation playbooks
 
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-0078D4?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
-
-
-    
+        
 </div>
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+ <img src="https://img.shields.io/badge/-ISC2-25be55?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABg0lEQVQ4jZWSv0sDURTFf3dPMTAHEWljEW2LgpJHigIirAgJ2JiKyF7iCIlUoCLZURqK6MoKYX/gIFW5UlP1PtmZ3ZndI3b2Wg4c93znve9y735tf/7gIwRpUKCSHkThU1EYAh+BsyN5A94MQ12Gh1py3hDKHoSE0ozBvR8ncn0V7BdDb10zUFRwljfAI3cYMSBB1t58H5+jNdIbCdIW7QNwNfaAh9FXnyK60k88A34oAaWmgTAo3wL3GkoYmV4S4B6FdKwZgQKkCHog2D56kiFYA7Xgak5h1YmiSgEqZnQGYTFDDA6yGEd4nUZTGW9riEo5q9pCQKRDRxgFfIUlDEffK5TyKwJMcA2xkg4ZK7ZrsPAWgxYLDl7Qx0ONaCta1FhzW3hz+iKhZtWuN3IKcIzDqKhPEEr+ybdAUksyxy8xHfivmTPX0EpTTdxP/ls1oLKpJe2B/4hHp2yyLzE1V6n7Bk2WmCNnUgEkFKymZnINv2UJ8B9Z+j6I/UAAAAASUVORK5CYII=&logoColor=white" /> *
 </div>
 
+*Currently pursuing
