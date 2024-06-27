@@ -1,7 +1,7 @@
 # Hello, I'm Matt Peters
 <a href="https://www.linkedin.com/in/matthew-peters1999/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a curious, dedicated, and passionate cybersecurity professional with a profound interest in technology and a dedication to learning and continuious improvement.
+I am a curious, dedicated, and passionate cybersecurity professional with a profound interest in technology and a dedication to learning and continuous improvement.
 
 ## Objective
 
