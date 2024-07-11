@@ -5,7 +5,7 @@ I am a curious, dedicated, and passionate cybersecurity professional with a prof
 
 ## Objective
 
-My journey in computer science combined with my first-hand experiences in being targeted by cyber crime has led me to develop a passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join an Information Security/SOC Analyst role while bringing new insights and ideas to the table with a focus on protecting information for the betterment of the company.
+My journey in computer science combined with my first-hand experiences in being targeted by cyber crime has led me to develop a passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join an Information Security/SOC Analyst role while bringing new insights and ideas to the table with a focus on protecting information and driving better business decisions.
  
 ## Skills
 
