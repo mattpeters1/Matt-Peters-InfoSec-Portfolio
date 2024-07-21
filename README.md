@@ -12,7 +12,7 @@ My journey in computer science combined with my first-hand experiences in being 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Configuration  | <a href="https://www.edocr.com/v/orlmvrjg/matthew051299/elastic-siem-configuration">Elastic SIEM Deployment</a>|
-| Security Assessment | <a href="https://docs.google.com/document/d/1kcfDKnn-CmNZ-8nLoYJkjjrElaBjj-0L4HNVKHQkwDM/edit?usp=sharing">Structured Walkthrough of a Pen-test</a>,  <a href="https://docs.google.com/spreadsheets/d/17FLMbzqu3bSwYaNgTxTBgMf7EIxxo-e-JitS5_d5kY4/edit?usp=sharing">CIS Benchmarks Implementation</a>||
+| Security Assessment | <a href="https://www.edocr.com/v/xkdr6edz/matthew051299/structured-walkthrough-of-a-penetration-test">Structured Walkthrough of a Pen-test</a>,  <a href="https://docs.google.com/spreadsheets/d/17FLMbzqu3bSwYaNgTxTBgMf7EIxxo-e-JitS5_d5kY4/edit?usp=sharing">CIS Benchmarks Implementation</a>||
 | Networking          | <a>Integrating a Firewall, SFTP server, SIEM, and attacking and target systems to a LAN (In progress)</a>|
                      
 ## Upcoming Projects
