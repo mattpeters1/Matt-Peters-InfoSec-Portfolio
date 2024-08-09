@@ -41,6 +41,7 @@ Integrating a SOAR platform into the SOC environment by deploying Docker contain
 <div>
     <img src="https://img.shields.io/badge/-VirusTotal-394DF7?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
     <img src="https://img.shields.io/badge/-AnyRun-005571?&style=for-the-badge&logo=shield&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hybrid%20Analysis-005571?style=for-the-badge&logo=YOUR_LOGO_URL&logoColor=white" />
 
 </div>
 
