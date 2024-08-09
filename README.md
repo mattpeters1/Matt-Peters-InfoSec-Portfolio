@@ -16,7 +16,7 @@ My journey in  combined with my first-hand experiences in being targeted by cybe
 | Networking          | <a> Building a SOC environment with SOAR capabilities within a virtualized LAN complete with firewall, SIEM, and live threat intelligence integrations (In progress)</a>|
                      
 ## Upcoming Projects
-Integrating a SOAR platform into the SOC environment by deploying Docker containers on an Ubuntu server hosting the platforms: theHive, Cortex, and MISP which will facilitate the automation of repetitive security alert tasks.
+Integrating a SOAR platform into the SOC environment by deploying Docker containers on an Ubuntu server hosting the platforms: TheHive, Cortex, and MISP which will facilitate the automation of repetitive security alert tasks.
 
 ## Tools
 
