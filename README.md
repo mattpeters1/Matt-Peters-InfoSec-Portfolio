@@ -5,7 +5,7 @@ I am a curious, dedicated, and passionate cybersecurity professional with a prof
 
 ## Objective
 
-My journey in computer science combined with my first-hand experiences in being targeted by cyber crime has fueled my passion for cybersecurity. I am now eager to transition into this field armed with my background in business and risk assessment, specifically aiming to join an Information Security/SOC Analyst role while bringing new insights and ideas to the table with a focus on protecting information and driving better business decisions.
+My journey in  combined with my first-hand experiences in being targeted by cyber crime has fueled my passion for cybersecurity. I am now eager to transition into this field armed with my background in business and risk assessment, specifically aiming to join an Information Security/SOC Analyst role while bringing new insights and ideas to the table with a focus on protecting information and driving better business decisions.
  
 ## Skills
 
@@ -13,12 +13,10 @@ My journey in computer science combined with my first-hand experiences in being 
 |-----------------------------------------------|----------------------------|
 | SIEM Configuration  | <a href="https://www.edocr.com/v/orlmvrjg/matthew051299/elastic-siem-configuration">Elastic SIEM Deployment</a>|
 | Security Assessment | <a href="https://www.edocr.com/v/xkdr6edz/matthew051299/structured-walkthrough-of-a-penetration-test">Structured Walkthrough of a Pen-test</a>,  <a href="https://docs.google.com/spreadsheets/d/17FLMbzqu3bSwYaNgTxTBgMf7EIxxo-e-JitS5_d5kY4/edit?usp=sharing">CIS Benchmarks Implementation</a>||
-| Networking          | <a> Building a SOC environment within a virtualized LAN complete with firewall, SIEM, and live threat intel integrations (In progress)</a>|
+| Networking          | <a> Building a SOC environment with SOAR capabilities within a virtualized LAN complete with firewall, SIEM, and live threat intelligence integrations (In progress)</a>|
                      
 ## Upcoming Projects
-I am working towards integrating some of the tools above into a complete SOC environment. It will include live threat intelligence using tools including OPNSense Firewall with IPS/IDS and suricata rules, Wazuh SIEM and TheHive, and target systems and an email server.
-
-Creating SOAR automation playbooks
+Integrating a SOAR platform into the SOC environment by deploying Docker containers on an Ubuntu server hosting the platforms: theHive, Cortex, and MISP which will facilitate the automation of repetitive security alert tasks.
 
 ## Tools
 
