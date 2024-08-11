@@ -20,7 +20,6 @@ Integrating a SOAR platform into the SOC environment by deploying Docker contain
 
 ## Tools
 
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -57,6 +56,6 @@ Integrating a SOAR platform into the SOC environment by deploying Docker contain
 
 [![ISC2 Badge](https://img.shields.io/badge/ISC2_Badge-25be55?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABg0lEQVQ4jZWSv0sDURTFf3dPMTAHEWljEW2LgpJHigIirAgJ2JiKyF7iCIlUoCLZURqK6MoKYX/gIFW5UlP1PtmZ3ZndI3b2Wg4c93znve9y735tf/7gIwRpUKCSHkThU1EYAh+BsyN5A94MQ12Gh1py3hDKHoSE0ozBvR8ncn0V7BdDb10zUFRwljfAI3cYMSBB1t58H5+jNdIbCdIW7QNwNfaAh9FXnyK60k88A34oAaWmgTAo3wL3GkoYmV4S4B6FdKwZgQKkCHog2D56kiFYA7Xgak5h1YmiSgEqZnQGYTFDDA6yGEd4nUZTGW9riEo5q9pCQKRDRxgFfIUlDEffK5TyKwJMcA2xkg4ZK7ZrsPAWgxYLDl7Qx0ONaCta1FhzW3hz+iKhZtWuN3IKcIzDqKhPEEr+ybdAUksyxy8xHfivmTPX0EpTTdxP/ls1oLKpJe2B/4hHp2yyLzE1V6n7Bk2WmCNnUgEkFKymZnINv2UJ8B9Z+j6I/UAAAAASUVORK5CYII=&logoColor=white)](https://www.credly.com/badges/2cb89e80-5d93-4c77-8e22-0525e5ab92dc)
 
-
+![Capture](https://github.com/mattpeters1/Configuring-Elastic-SIEM-to-push-logs-and-generate-alerts-from-VM/blob/main/Elastic%20Security%20Default%20Rules.PNG)
 
 
