@@ -26,7 +26,8 @@ Integrating a SOAR platform into the SOC environment by deploying Docker contain
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-1679A7?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
- <img src="https://img.shields.io/badge/-OPNSense-000000?&style=for-the-badge&logo=opnsense&logoColor=FF6F00" />
+    <img src="https://img.shields.io/badge/-OPNSense-000000?&style=for-the-badge&logo=opnsense&logoColor=FF6F00" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
 
