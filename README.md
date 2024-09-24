@@ -13,8 +13,8 @@ My journey in  combined with my first-hand experiences in being targeted by cybe
 |-----------------------------------------------|----------------------------|
 | SIEM Configuration  | <a href="https://www.edocr.com/v/orlmvrjg/matthew051299/elastic-siem-configuration">Elastic SIEM Deployment</a>|
 | Security Assessment | <a href="https://www.edocr.com/v/xkdr6edz/matthew051299/structured-walkthrough-of-a-penetration-test">Structured Walkthrough of a Pen-test</a>,  <a href="https://docs.google.com/spreadsheets/d/17FLMbzqu3bSwYaNgTxTBgMf7EIxxo-e-JitS5_d5kY4/edit?usp=sharing">CIS Benchmarks Implementation</a>||
-| Networking          | <a> Building a SOC environment with SOAR capabilities within a virtualized LAN complete with firewall, SIEM, and live threat intelligence integrations (In Progress)</a>
-| Documentation/User Education (LetsDefend, a cybersecurity training platform, requested I create this tutorial to assist struggling users.} | <a href="https://medium.com/@mpeters.recoveryservicesusa/walkthrough-of-the-alert-soc235-atlassian-confluence-broken-access-control-0-day-cve-2023-22515-f33a83cb8fe8">Tutorial on analyzing a SIEM alert</a>|
+| Networking          | <a> Building a SOC environment with SOAR capabilities from the ground up. (In Progress)</a>
+| Documentation and User Education | (LetsDefend, a cybersecurity training platform, requested I create this tutorial to assist struggling users.} <a href="https://medium.com/@mpeters.recoveryservicesusa/walkthrough-of-the-alert-soc235-atlassian-confluence-broken-access-control-0-day-cve-2023-22515-f33a83cb8fe8">Walkthrough on analyzing a SIEM alert</a>|
 
 Network topology preview of (In Progress) project: ![Capture](https://github.com/mattpeters1/Virtualized-SOC-Environment-with-SOAR-Capabilities/blob/main/SOC%20Network%20Topology.png)
 
