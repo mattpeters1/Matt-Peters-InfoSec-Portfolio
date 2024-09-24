@@ -9,7 +9,7 @@ My journey in  combined with my first-hand experiences in being targeted by cybe
  
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project/Certification         |
 |-----------------------------------------------|----------------------------|
 | SIEM Configuration  | <a href="https://www.edocr.com/v/orlmvrjg/matthew051299/elastic-siem-configuration">Elastic SIEM Deployment</a>|
 | Security Operations | <a href="https://github.com/mattpeters1/SOC-Analyst-Certification">SOC Analyst Certification</a>|
