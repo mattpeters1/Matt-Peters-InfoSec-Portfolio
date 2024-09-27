@@ -20,7 +20,12 @@ My journey in developing my skills in cybersecurity combined with my first-hand 
 Network topology preview of (In Progress) project: ![Capture](https://github.com/mattpeters1/Virtualized-SOC-Environment-with-SOAR-Capabilities/blob/main/SOC%20Network%20Topology.png)
 
 ## Upcoming Projects
-Integrating a SOAR platform into the SOC environment by deploying Docker containers on an Ubuntu server hosting the platforms: TheHive, Cortex, and MISP which will facilitate the automation of repetitive security alert tasks.
+I am currently working on enhancing the Security Operations Center (SOC) environment by integrating a Security Orchestration, Automation, and Response (SOAR) platform by deploying Docker containers on an Ubuntu server. This deployment will include three key tools: TheHive, Cortex, and MISP.
+TheHive is an incident response platform that allows security analysts to manage and collaborate on incidents efficiently. It provides a centralized dashboard for tracking alerts, documenting findings, and coordinating responses.
+Cortex complements TheHive by offering a variety of analyzers and responders that automate the processing of security alerts. It can integrate with threat intelligence feeds and perform automated actions based on predefined playbooks, significantly reducing the time analysts spend on repetitive tasks such as investigating and triaging alerts.
+MISP (Malware Information Sharing Platform) is designed for sharing structured threat intelligence. It allows organizations to collaborate by sharing data on threats, indicators of compromise, and attack patterns. This not only enriches the data available to the SOC but also enhances the effectiveness of TheHive and Cortex by providing contextual information for better decision-making.
+
+Web scraping with Powershell to automate certain work tasks.
 
 ## Tools
 
