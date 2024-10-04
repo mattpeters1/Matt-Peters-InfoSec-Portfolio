@@ -5,7 +5,7 @@ I am a curious, dedicated, and passionate IT professional aiming towards working
 
 ## Objective
 
-My journey in developing my skills in cybersecurity combined with my first-hand experiences in being targeted by cyber crime has fueled my passion for cybersecurity. I am now eager to transition into this field armed with my background in business and risk assessment, specifically hoping to join an Information Security/SOC Analyst role while bringing new insights and ideas to the table with a focus on protecting information and driving better business decisions.
+My journey in developing my skills in cybersecurity combined with my first-hand experiences in being targeted by cyber crime has fueled my passion for cybersecurity. I am now eager to transition into this field armed with my background in business and risk assessment, with the goal of bringing new insights and ideas to the table with a focus on protecting information and driving better business decisions.
  
 ## Skills
 
