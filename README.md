@@ -1,4 +1,4 @@
-# Hello, I'm Matt Peters. Thanks for stopping by my page!
+# Hello, I'm Matt Peters.
 <a href="https://www.linkedin.com/in/matthew-peters1999/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a curious, dedicated, and passionate IT professional aiming towards working in cybersecurity with a profound interest in technology and a dedication to learning and continuous improvement. In my career thusfar, I have enjoyed performing investigative and analytical work as a records auditor in the financial services industry. My problem with this field was that the learning stopped after I fully understood how the business (and Excel) operates. I feel that cybersecurity is a field I would thrive in due to the demanding nature of the work, the continuous need for improvement, and the need for analytical and critical thinking. My approach to solving a problem is to first see if the answer already exists i.e consult documentation. If the problem requires a new solution, this is where I go to work utilizing my experiences and critical thinking abilities to solve problems coated in complexity and uncertainity. I aim to demonstrate these abilites in my projects below.
@@ -11,11 +11,11 @@ My journey in developing my skills in cybersecurity combined with my first-hand 
 
 | Skill                                         | Associated Project/Certification         |
 |-----------------------------------------------|----------------------------|
-| Networking          | <a> Building a SOC environment with SOAR capabilities from the ground up. (In Progress)</a>
 | Security Operations | <a href="https://github.com/mattpeters1/SOC-Analyst-Certification">SOC Analyst Certification</a>|
+| SIEM Configuration | <a href="https://github.com/mattpeters1/Configuring-Elastic-SIEM-to-push-logs-and-generate-alerts-from-VM/blob/main/README.md">Elastic SIEM Deployment</a>| 
 | Security Assessment | <a href="https://docs.google.com/document/d/1kcfDKnn-CmNZ-8nLoYJkjjrElaBjj-0L4HNVKHQkwDM/edit?usp=sharing">Structured Walkthrough of a Pen-test</a>,  <a href="https://docs.google.com/spreadsheets/d/17FLMbzqu3bSwYaNgTxTBgMf7EIxxo-e-JitS5_d5kY4/edit?usp=sharing">CIS Benchmarks Implementation</a>||
-| Documentation and User Education | (LetsDefend, a cybersecurity training platform, requested I create this tutorial to assist struggling users.) <a href="https://medium.com/@mpeters.recoveryservicesusa/walkthrough-of-the-alert-soc235-atlassian-confluence-broken-access-control-0-day-cve-2023-22515-f33a83cb8fe8">Walkthrough on analyzing a SIEM alert</a>|
-| SIEM Configuration (Project link temporarily broken) | <a href="https://github.com/mattpeters1/Configuring-Elastic-SIEM-to-push-logs-and-generate-alerts-from-VM/blob/main/README.md">Elastic SIEM Deployment</a>| 
+| Documentation and User Education | <a href="https://medium.com/@mpeters.recoveryservicesusa/walkthrough-of-the-alert-soc235-atlassian-confluence-broken-access-control-0-day-cve-2023-22515-f33a83cb8fe8">Walkthrough on analyzing a SIEM alert</a> (The cybersecurity training platform, LetsDefend requested I create this tutorial to assist struggling users.)|
+| Networking          | <a> Building a SOC environment with SOAR capabilities from the ground up. (In Progress)</a>
 
 Network topology of SOC environment project: ![Capture](https://github.com/mattpeters1/Virtualized-SOC-Environment-with-SOAR-Capabilities/blob/main/SOC%20Network%20Topology.png)
 
