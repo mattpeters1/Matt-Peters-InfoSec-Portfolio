@@ -25,8 +25,6 @@ TheHive is an incident response platform that allows security analysts to manage
 Cortex complements TheHive by offering a variety of analyzers and responders that automate the processing of security alerts. It can integrate with threat intelligence feeds and perform automated actions based on predefined playbooks, significantly reducing the time analysts spend on repetitive tasks such as investigating and triaging alerts.
 MISP (Malware Information Sharing Platform) is designed for sharing structured threat intelligence. It allows organizations to collaborate by sharing data on threats, indicators of compromise, and attack patterns. This not only enriches the data available to the SOC but also enhances the effectiveness of TheHive and Cortex by providing contextual information for better decision-making.
 
-Web scraping with Powershell to automate certain work tasks.
-
 ## Tools
 
 ### Network
