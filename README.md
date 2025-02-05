@@ -15,7 +15,7 @@ My journey in developing my skills in cybersecurity combined with my first-hand 
 | Security Operations | <a href="https://github.com/mattpeters1/SOC-Analyst-Certification">SOC Analyst Certification</a>|
 | Security Assessment | <a href="https://docs.google.com/document/d/1kcfDKnn-CmNZ-8nLoYJkjjrElaBjj-0L4HNVKHQkwDM/edit?usp=sharing">Structured Walkthrough of a Pen-test</a>,  <a href="https://docs.google.com/spreadsheets/d/17FLMbzqu3bSwYaNgTxTBgMf7EIxxo-e-JitS5_d5kY4/edit?usp=sharing">CIS Benchmarks Implementation</a>||
 | Documentation and User Education | (LetsDefend, a cybersecurity training platform, requested I create this tutorial to assist struggling users.) <a href="https://medium.com/@mpeters.recoveryservicesusa/walkthrough-of-the-alert-soc235-atlassian-confluence-broken-access-control-0-day-cve-2023-22515-f33a83cb8fe8">Walkthrough on analyzing a SIEM alert</a>|
-| SIEM Configuration (Project link temporarily broken) | <a href="https://www.edocr.com/v/orlmvrjg/matthew051299/elastic-siem-configuration">Elastic SIEM Deployment</a>| 
+| SIEM Configuration (Project link temporarily broken) | <a href="https://github.com/mattpeters1/Configuring-Elastic-SIEM-to-push-logs-and-generate-alerts-from-VM/blob/main/README.md">Elastic SIEM Deployment</a>| 
 
 Network topology of SOC environment project: ![Capture](https://github.com/mattpeters1/Virtualized-SOC-Environment-with-SOAR-Capabilities/blob/main/SOC%20Network%20Topology.png)
 
