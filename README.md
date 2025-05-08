@@ -15,6 +15,7 @@ My journey in developing my skills in cybersecurity combined with my first-hand 
 | SIEM Configuration | <a href="https://github.com/mattpeters1/Configuring-Elastic-SIEM-to-push-logs-and-generate-alerts-from-VM/blob/main/README.md">Elastic SIEM Deployment</a>| 
 | Security Assessment | <a href="https://docs.google.com/document/d/1kcfDKnn-CmNZ-8nLoYJkjjrElaBjj-0L4HNVKHQkwDM/edit?usp=sharing">Structured Walkthrough of a Pen-test</a>,  <a href="https://docs.google.com/spreadsheets/d/17FLMbzqu3bSwYaNgTxTBgMf7EIxxo-e-JitS5_d5kY4/edit?usp=sharing">CIS Benchmarks Implementation</a>||
 | Documentation and User Education | <a href="https://medium.com/@mpeters.recoveryservicesusa/walkthrough-of-the-alert-soc235-atlassian-confluence-broken-access-control-0-day-cve-2023-22515-f33a83cb8fe8">Walkthrough on analyzing a SIEM alert</a> (The cybersecurity training platform, LetsDefend requested I create this tutorial to assist struggling users.)|
+| A.I. Engineering          | <a href="https://ioc-insight-navigator.lovable.app">IOC Enrichment Software Application</a> I take an AI Engineer's approach in making an app that intakes any list of IOCs i.e IPs, hashes, domains and outputs enriched data mainly through API calls. (In Progress)|
 | Networking          | <a> Building a SOC environment with SOAR capabilities from the ground up. (In Progress)</a>
 
 Network topology of SOC environment project: ![Capture](https://github.com/mattpeters1/Virtualized-SOC-Environment-with-SOAR-Capabilities/blob/main/SOC%20Network%20Topology.png)
